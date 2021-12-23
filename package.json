@@ -1,9 +1,9 @@
 {
-  "name": "surveymonkey-autofill-bot",
+  "name": "CPXBot-autofill-bot",
   "author": "Benjamin Meier <meier.benjamin@web.de>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bennymeier/surveymonkey-autofill-bot.git"
+    "url": "https://github.com/bennymeier/CPXBot-autofill-bot.git"
   },
   "version": "1.0.0",
   "main": "index.js",
