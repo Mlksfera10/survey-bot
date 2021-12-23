@@ -1,4 +1,4 @@
-const URL = 'https://www.surveymonkey.de/r/WHNB5HM';
+const URL = https://offers.cpx-research.com/index.php?app_id=7639&ext_user_id=fsid-2138633-186bb0442a';
 const express = require('express');
 const cors = require('cors');
 const puppeteer = require('puppeteer');
