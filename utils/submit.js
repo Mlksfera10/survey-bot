@@ -2,7 +2,7 @@ const submit = async (page) => {
   try {
     const res = await page.evaluate(() => {
       const el = document.querySelector(
-        '#patas > main > article > section > form > div.survey-submit-actions.center-text.clearfix > button'
+        '#patas > main > choose a survey > div.survey-submit-actions.center-text.clearfix > button'
       );
       if (el) {
         el.click();
